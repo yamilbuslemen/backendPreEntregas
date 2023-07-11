@@ -1,0 +1,35 @@
+[
+	{
+		"id": "d070afa8-63d9-478c-b388-98178830caac",
+		"title": "Guantes",
+		"description": "guantes de boxeo",
+		"price": 200,
+		"thumbnail": "",
+		"code": "ABS123",
+		"stock": 100,
+		"status": true,
+		"category": "guantes"
+	},
+	{
+		"id": "4b3d41e8-d374-4569-b30f-13f91bc7edb2",
+		"title": "Bucal",
+		"description": "bucal protector",
+		"price": 1000,
+		"thumbnail": "",
+		"code": "ABS125",
+		"stock": 200,
+		"status": true,
+		"category": "bucales"
+	},
+	{
+		"id": "857295ab-2cee-436f-8c3b-eff91d5f7acd",
+		"title": "Vendas",
+		"description": "vendas protectoras",
+		"price": 10000,
+		"thumbnail": "",
+		"code": "ABS126",
+		"stock": 90,
+		"status": true,
+		"category": "vendas"
+	}
+]
